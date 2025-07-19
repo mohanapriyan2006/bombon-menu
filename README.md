@@ -53,3 +53,16 @@ This project is ready to be deployed on GitHub Pages.
 -   **Browse Categories:** Swipe the category bar horizontally to see all sections. Tap a category to jump directly to it.
 -   **Search for Items:** Tap the search bar at the top and start typing the name of an item to instantly filter the menu.
 -   **View Details:** Scroll vertically to browse all items within the selected categories.
+
+
+## 📷  Preview
+
+![image](preview\image1.png)
+-----
+![image](preview\image2.png)
+-----
+![image](preview\image3.png)
+-----
+![image](preview\image4.png)
+
+------
