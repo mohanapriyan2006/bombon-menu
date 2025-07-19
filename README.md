@@ -57,12 +57,12 @@ This project is ready to be deployed on GitHub Pages.
 
 ## 📷  Preview
 
-![image](preview\image1.png)
+![image](preview/image1.png)
 -----
-![image](preview\image2.png)
+![image](preview/image2.png)
 -----
-![image](preview\image3.png)
+![image](preview/image3.png)
 -----
-![image](preview\image4.png)
+![image](preview/image4.png)
 
 ------
