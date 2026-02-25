@@ -2,6 +2,20 @@
 
 This project is a mobile-first, responsive digital menu card website for "Bombón Dessert Menu," a fast-service food shop. The design focuses on providing customers with a quick and frictionless way to search, browse, and select menu items directly from their smartphones.
 
+
+## 📷  Preview
+
+![image](preview/image1.png)
+-----
+![image](preview/image2.png)
+-----
+![image](preview/image3.png)
+-----
+![image](preview/image4.png)
+
+------
+
+
 ## 📱 Platform Focus
 
 -   **Mobile-First:** The layout, navigation, and interactive elements are optimized for mobile screens.
@@ -54,15 +68,3 @@ This project is ready to be deployed on GitHub Pages.
 -   **Search for Items:** Tap the search bar at the top and start typing the name of an item to instantly filter the menu.
 -   **View Details:** Scroll vertically to browse all items within the selected categories.
 
-
-## 📷  Preview
-
-![image](preview/image1.png)
------
-![image](preview/image2.png)
------
-![image](preview/image3.png)
------
-![image](preview/image4.png)
-
-------
